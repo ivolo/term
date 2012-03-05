@@ -1,0 +1,21 @@
+{
+  "author": "Ilya Volodarsky <ivolo@mit.edu>",
+  "name": "term",
+  "description": "Utilities for complex node.js terminal applications",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ivolo/term.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "~0.6.11"
+  },
+  "dependencies": {
+      "underscore": "*"
+    },
+  "devDependencies": {
+      "mocha": "*",
+      "should": "*"
+    }
+}
